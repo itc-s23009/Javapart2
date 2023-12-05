@@ -5,56 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="383cef4b-273f-4177-a067-359c72420c0c" name="変更" comment="capter 6_2 Taxと四角形(rectangle)">
-      <change afterPath="$PROJECT_DIR$/src/chapter6/Sample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/Sample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/Sample4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_2/Joining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_2/Sample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_3/Joining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_3/NoField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_3/Sample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_4/NoConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_4/NoField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_4/Sample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_4/Sample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_5/Sample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_5/StaticJoining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_6/Joining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_6/Sample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_7/Ssmple1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_8/Tax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_9/Id.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_9/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_9/Sample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_9/Sample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7_9/Tax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8_1/GeneralMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8_1/Sample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8_1/SeniorMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8_2/GeneralMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8_2/Lesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8_2/Sample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8_3/Sample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8_3/Sample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8_3/Sample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8_3/SeniorMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8_3/StudentMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/E631_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/E721_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/E751.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/E831_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/ESeniorMenber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/GeneralMenber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/Menber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/Stock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/StudentMenber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10_1/Attendable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10_1/AuditingStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10_1/Sample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10_1/Sample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10_1/Sample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10_1/Sample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10_1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10_1/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10_1/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10_1/Versionable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10_2/Rate1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10_2/Rate2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10_2/RateIntf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10_2/Sample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10_2/Tax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/Greating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9_1/GeneralMenber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9_1/Menber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9_1/Sample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9_1/SeniorMenber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9_1/StudentMenber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/E102_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/Rate3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/RateIntf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacher_question/Draw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacher_question/Drawable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teacher_question/Sample1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6/Sample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/Sample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6/Tax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/Tax.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +43,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -117,7 +97,10 @@
       <workItem from="1699426807034" duration="8746000" />
       <workItem from="1699942782646" duration="6408000" />
       <workItem from="1700024218545" duration="8979000" />
-      <workItem from="1700110134446" duration="10890000" />
+      <workItem from="1700110134446" duration="11931000" />
+      <workItem from="1700545067211" duration="2595000" />
+      <workItem from="1700629254840" duration="9480000" />
+      <workItem from="1701736702829" duration="8184000" />
     </task>
     <task id="LOCAL-00001" summary="プロジェクト作成">
       <option name="closed" value="true" />
@@ -135,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699343706245</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="capter 6_2 Taxと四角形(rectangle)">
+      <option name="closed" value="true" />
+      <created>1700121390273</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700121390273</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
